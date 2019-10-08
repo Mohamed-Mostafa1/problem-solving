@@ -1,4 +1,4 @@
-anton, danik = [0, 0]
+anton, danik = 0, 0
 n = input()
 string = input()
 for s in string:

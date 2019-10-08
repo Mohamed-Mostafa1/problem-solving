@@ -1,4 +1,4 @@
-avlCops, result  = [0, 0]
+avlCops, result  = 0, 0
 n = input()
 crimes = list(map(int, input().split()))
 for crime in crimes:

@@ -1,4 +1,4 @@
-upper, lower = [0, 0]
+upper, lower = 0, 0
 string = input()
 for s in string:
     if s.isupper():

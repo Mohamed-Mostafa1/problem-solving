@@ -1,5 +1,5 @@
 
-sereja, dima = [0, 0]
+sereja, dima = 0, 0
 n = input()
 cards = list(map(int, input().split()))
 while cards:
